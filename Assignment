@@ -1,0 +1,22 @@
+Write a small Java program that is printing on the screen a dog. 
+You can print whatever form/shape of  dog you want from http://chris.com/ascii/index.php?art=animals/dogs 
+(you can use that site to choose your preferred dog shape)
+
+package dog;
+
+public class Dog {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+         System.out.println(" \t                                __");
+ System.out.println(" \t    ,                    ,'' e`--o "); 
+ System.out.println(" \t   ((                   (  | __,'");
+ System.out.println(" \t    \\----------------' _;/");
+ System.out.println(" \thjw (                      /");
+ System.out.println(" \t    /) ._______________.  )"); 
+ System.out.println(" \t   (( (               (( (");
+    }
+    
+}
